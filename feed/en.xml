@@ -5,7 +5,16 @@
 <link>https://hourwise.blogspot.com/</link>
 <description>Practical guides on working faster with everyday tools.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 23 Sep 2026 00:00:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 00:17:42 +0000</lastBuildDate>
+<item>
+<title>How to Clone Your Own Voice With ElevenLabs to Narrate Videos (Without Re-Recording Every Time)</title>
+<link>https://hourwise.blogspot.com/2026/09/how-to-clone-your-own-voice-with.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/09/how-to-clone-your-own-voice-with.html</guid>
+<description>How to clone your voice with ElevenLabs: skip the free plan, record 1 minute, chunk scripts to stop drift, and narrate videos without re-recording.</description>
+<pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@0f276d455e7fc97714fe4f2e6ba844dfa746e1d5/pins/en/clone-your-voice-elevenlabs-narrate-videos.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@0f276d455e7fc97714fe4f2e6ba844dfa746e1d5/pins/en/clone-your-voice-elevenlabs-narrate-videos.png" length="91206" type="image/png"/>
+</item>
 <item>
 <title>How to Auto-Timestamp a Row in Google Sheets When Someone Fills It In</title>
 <link>https://hourwise.blogspot.com/2026/09/how-to-auto-timestamp-row-in-google.html</link>
@@ -455,6 +464,87 @@
 <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
 <media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/restore-previous-version-google-sheet-client-overwrote.png" medium="image" type="image/png" width="1000" height="1500"/>
 <enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/restore-previous-version-google-sheet-client-overwrote.png" length="93836" type="image/png"/>
+</item>
+<item>
+<title>How to Get AI Research With Real, Clickable Citations (Stop ChatGPT's Fake Sources)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-get-ai-research-with-real.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-get-ai-research-with-real.html</guid>
+<description>Get AI research with real, clickable citations—not ChatGPT's fake sources. How to get AI research with real citations you can verify in Perplexity.</description>
+<pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/ai-research-with-real-citations.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/ai-research-with-real-citations.png" length="86497" type="image/png"/>
+</item>
+<item>
+<title>How to Lock Formula Cells in a Shared Google Sheet (So Clients Can't Break Your Work)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-lock-formula-cells-in-shared.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-lock-formula-cells-in-shared.html</guid>
+<description>How to lock cells in a shared Google Sheet so clients can't overwrite your formulas. Use Protect sheets and ranges to restrict edits in minutes.</description>
+<pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/lock-cells-in-shared-google-sheet.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/lock-cells-in-shared-google-sheet.png" length="86870" type="image/png"/>
+</item>
+<item>
+<title>Best AI Website Builders for Freelancers (Launch a Portfolio Site Without Code)</title>
+<link>https://hourwise.blogspot.com/2026/08/best-ai-website-builders-for.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/best-ai-website-builders-for.html</guid>
+<description>The best AI website builder for freelancers depends on your goal. Compare Durable, Hostinger AI, Wix ADI and Framer to launch a portfolio without code.</description>
+<pubDate>Sun, 09 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/best-ai-website-builders-for-freelancers-portfolio.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/best-ai-website-builders-for-freelancers-portfolio.png" length="74675" type="image/png"/>
+</item>
+<item>
+<title>How to Block Distracting Websites and Actually Focus (Free, 10-Minute Setup)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-block-distracting-websites-and.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-block-distracting-websites-and.html</guid>
+<description>Learn how to block distracting websites for free in 10 minutes with built-in tools and browser extensions—no subscription. Simple step-by-step setup.</description>
+<pubDate>Sun, 09 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/how-to-block-distracting-websites-free.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/how-to-block-distracting-websites-free.png" length="81765" type="image/png"/>
+</item>
+<item>
+<title>How to Convert a PDF to an Editable Word or Google Doc for Free (Under 5 Minutes)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-convert-pdf-to-editable-word-or.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-convert-pdf-to-editable-word-or.html</guid>
+<description>Free, in under 5 minutes: convert a PDF to an editable Word or Google Doc for free—OCR for scanned files included. No sketchy sites.</description>
+<pubDate>Sat, 08 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/convert-pdf-to-editable-word-google-doc-free.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/convert-pdf-to-editable-word-google-doc-free.png" length="80450" type="image/png"/>
+</item>
+<item>
+<title>How to Write Cold Outreach Emails with ChatGPT That Actually Get Replies (Copy-Paste Prompts)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-write-cold-outreach-emails-with.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-write-cold-outreach-emails-with.html</guid>
+<description>Cold outreach email ChatGPT prompts that get replies: copy-paste templates for pitches, follow-ups, and subject lines that read human, not spam.</description>
+<pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/cold-outreach-emails-with-chatgpt-prompts.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/cold-outreach-emails-with-chatgpt-prompts.png" length="93103" type="image/png"/>
+</item>
+<item>
+<title>How to Merge Multiple PDFs into One File for Free (No Software, Under 5 Minutes)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-merge-multiple-pdfs-into-one.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-merge-multiple-pdfs-into-one.html</guid>
+<description>How to merge PDF files for free with no software—use Mac Preview, Google Drive, or a browser tool to combine, reorder, and compress PDFs in under 5 minutes.</description>
+<pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/merge-pdf-files-for-free.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/merge-pdf-files-for-free.png" length="81262" type="image/png"/>
+</item>
+<item>
+<title>Best AI Social Media Schedulers for Solo Creators (AI Captions, Free Picks Included)</title>
+<link>https://hourwise.blogspot.com/2026/08/best-ai-social-media-schedulers-for.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/best-ai-social-media-schedulers-for.html</guid>
+<description>The best AI social media scheduler for creators: Buffer for free &amp; simple, Publer for value. Compare AI captions, free plans &amp; top picks for solo creators.</description>
+<pubDate>Thu, 06 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/best-ai-social-media-scheduler-for-solo-creators.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/best-ai-social-media-scheduler-for-solo-creators.png" length="84990" type="image/png"/>
+</item>
+<item>
+<title>How to Use Google Docs Voice Typing to Write 3x Faster (Free, 5-Minute Setup)</title>
+<link>https://hourwise.blogspot.com/2026/08/how-to-use-google-docs-voice-typing-to.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/08/how-to-use-google-docs-voice-typing-to.html</guid>
+<description>Learn how to use voice typing in Google Docs to draft 3x faster—free setup, punctuation commands, and an AI cleanup workflow in minutes.</description>
+<pubDate>Thu, 06 Aug 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/google-docs-voice-typing-write-faster.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/google-docs-voice-typing-write-faster.png" length="85590" type="image/png"/>
 </item>
 </channel>
 </rss>
