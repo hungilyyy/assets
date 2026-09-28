@@ -5,7 +5,7 @@
 <link>https://hourwise.blogspot.com/</link>
 <description>Practical guides on working faster with everyday tools.</description>
 <language>en-US</language>
-<lastBuildDate>Sun, 27 Sep 2026 00:14:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 00:25:59 +0000</lastBuildDate>
 <item>
 <title>Why ChatGPT Invents the Summary When You Paste a Link (and How to Get It to Actually Read the…</title>
 <link>https://hourwise.blogspot.com/2026/09/why-chatgpt-invents-summary-when-you.html</link>
@@ -815,6 +815,15 @@
 <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
 <media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/automate-weekly-client-reports-chatgpt.png" medium="image" type="image/png" width="1000" height="1500"/>
 <enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/automate-weekly-client-reports-chatgpt.png" length="74981" type="image/png"/>
+</item>
+<item>
+<title>Inbox Zero in 20 Minutes: The Gmail Filter System That Auto-Sorts Your Email Forever</title>
+<link>https://hourwise.blogspot.com/2026/07/inbox-zero-in-20-minutes-gmail-filter.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/07/inbox-zero-in-20-minutes-gmail-filter.html</guid>
+<description>Use Gmail filters to organize inbox in 20 minutes: four labels, four copy-paste filter recipes, and a weekly triage that keeps you at inbox zero.</description>
+<pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/gmail-filters-inbox-zero-setup.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@33490a005e5dbaa37b26a0fa84cd64325467ea14/pins/en/gmail-filters-inbox-zero-setup.png" length="78746" type="image/png"/>
 </item>
 </channel>
 </rss>
