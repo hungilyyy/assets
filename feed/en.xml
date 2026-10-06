@@ -5,7 +5,16 @@
 <link>https://hourwise.blogspot.com/</link>
 <description>Practical guides on working faster with everyday tools.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 05 Oct 2026 00:37:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:33:25 +0000</lastBuildDate>
+<item>
+<title>Why Your Google Sheets Timesheet Shows Negative Hours or Resets After 24</title>
+<link>https://hourwise.blogspot.com/2026/10/why-your-google-sheets-timesheet-shows.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/10/why-your-google-sheets-timesheet-shows.html</guid>
+<description>Make your Google Sheets timesheet calculate hours past midnight: fix negative hours, totals that reset after 24, and invoices 24x too small.</description>
+<pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@06b0abe6fdf1d304b7e450d29d49a3e4653741c0/pins/en/google-sheets-timesheet-hours-wrong-past-midnight-over-24.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@06b0abe6fdf1d304b7e450d29d49a3e4653741c0/pins/en/google-sheets-timesheet-hours-wrong-past-midnight-over-24.png" length="78716" type="image/png"/>
+</item>
 <item>
 <title>How to Stop a Zapier Zap From Running on Every Email: Add a Filter So It Only Fires for the Ones…</title>
 <link>https://hourwise.blogspot.com/2026/10/how-to-stop-zapier-zap-from-running-on.html</link>
