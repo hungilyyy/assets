@@ -5,7 +5,16 @@
 <link>https://hourwise.blogspot.com/</link>
 <description>Practical guides on working faster with everyday tools.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 02 Nov 2026 00:36:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 00:07:23 +0000</lastBuildDate>
+<item>
+<title>Set Up a Gemini Scheduled Action That Briefs You on Client Emails Every Morning</title>
+<link>https://hourwise.blogspot.com/2026/11/set-up-gemini-scheduled-action-that.html</link>
+<guid isPermaLink="true">https://hourwise.blogspot.com/2026/11/set-up-gemini-scheduled-action-that.html</guid>
+<description>Use Gemini scheduled actions to summarize Gmail every morning: a copy-paste prompt for client emails, plus the 4 gaps where it silently misses messages.</description>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+<media:content url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@8c3b0903d34c2071b44c651393acc3d33fd18391/pins/en/gemini-scheduled-action-morning-gmail-client-briefing.png" medium="image" type="image/png" width="1000" height="1500"/>
+<enclosure url="https://cdn.jsdelivr.net/gh/hungilyyy/assets@8c3b0903d34c2071b44c651393acc3d33fd18391/pins/en/gemini-scheduled-action-morning-gmail-client-briefing.png" length="80409" type="image/png"/>
+</item>
 <item>
 <title>Why ChatGPT Cuts Off a Long Answer Mid-Response (and the Continue Prompt That Doesn't Skip or…</title>
 <link>https://hourwise.blogspot.com/2026/10/why-chatgpt-cuts-off-long-answer-mid.html</link>
